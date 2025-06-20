@@ -1,0 +1,2 @@
+# WebGameGzipFallback
+Gzip+Fallback
